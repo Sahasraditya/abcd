@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.filter-container {
+    margin: 20px;
+}
+
+canvas {
+    max-width: 600px;
+    margin: 20px auto;
+}
